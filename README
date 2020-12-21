@@ -1,6 +1,13 @@
 https://docs.expo.io/
 
 Install node
+
+nvm use 15
+
+
 Install expo-cli with npm
 expo init rn-first-app --npm (init a project with npm, else yarn will be used, also fine)
 
+
+cd rn-first-app
+npm start
